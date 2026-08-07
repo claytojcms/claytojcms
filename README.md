@@ -170,15 +170,23 @@ public class JoseClayto {
 </div>
 
 ---
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/SEUUSUARIO/SEUUSUARIO/output/github-contribution-grid-snake-dark.svg"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/claytojcms/claytojcms/output/github-contribution-grid-snake-dark.svg" />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/claytojcms/claytojcms/output/github-contribution-grid-snake.svg" />
+  <img
+    alt="github contribution snake"
+    src="https://raw.githubusercontent.com/claytojcms/claytojcms/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
-
-> ⚠️ Para essa animação funcionar será necessário criar um GitHub Action depois. Leva menos de 2 minutos e eu posso te passar depois.
 
 ---
 
