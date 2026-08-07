@@ -142,26 +142,6 @@ public class JoseClayto {
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SEUUSUARIO&theme=matrix&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEUUSUARIO&theme=github-compact&bg_color=00000000&color=00FF88&line=00FF88&point=FFFFFF&hide_border=true"/>
-
-</div>
-
----
-
 # 🧠 Current Roadmap
 
 <div align="center">
@@ -298,15 +278,15 @@ public class JoseClayto {
 
 <div align="center">
 
-<a href="https://github.com/SEUUSUARIO">
+<a href="https://github.com/claytojcms">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/SEULINKEDIN">
+<a href="www.linkedin.com/in/clayto-souza-0a60b0246">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:SEUEMAIL">
+<a href="mailto:joseclaytojcms@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
