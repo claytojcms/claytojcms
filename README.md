@@ -107,81 +107,6 @@ public class JoseClayto {
 
 ---
 
-# 💬 Quote
-
-> **"Programs must be written for people to read, and only incidentally for machines to execute."**
-
-### Harold Abelson
-
----
-
-<div align="center">
-
-### 💚 Turning Ideas into Code.
-
-</div>
-
----
-# 📊 GitHub Dashboard
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=transparent&hide_border=true&title_color=00FF88&icon_color=00FF88&text_color=FFFFFF&ring_color=00FF88"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=transparent&hide_border=true&title_color=00FF88&text_color=FFFFFF"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=transparent&hide_border=true&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF"/>
-
-</div>
-
----
-
-# 🧠 Current Roadmap
-
-<div align="center">
-
-| ✔ | Learning |
-|:--:|:---------|
-| ✅ | Data Structures & Algorithms |
-| ✅ | Object-Oriented Programming |
-| ✅ | Git & GitHub |
-| ✅ | Linux |
-| 🟢 | Java |
-| 🟢 | Python |
-| 🟢 | SQL |
-| 🟡 | Spring Boot |
-| 🟡 | Docker |
-| 🔵 | REST APIs |
-| 🔵 | Design Patterns |
-| 🔵 | Clean Architecture |
-
-</div>
-
----
-
-# 📂 Featured Projects
-
-<div align="center">
-
-| Project | Description |
-|:--------|:------------|
-| 🚀 **Project One** | Replace with your best project |
-| 💻 **Project Two** | A backend application |
-| 📱 **Project Three** | University project |
-| ⚡ **Project Four** | Open Source contribution |
-
-</div>
-
-> 💡 **Tip:** Pin your best repositories on your GitHub profile so they appear here.
-
----
-
 # ⚡ Tech Highlights
 
 <div align="center">
@@ -282,7 +207,7 @@ public class JoseClayto {
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="www.linkedin.com/in/clayto-souza-0a60b0246">
+<a href="https://www.linkedin.com/in/clayto-souza-0a60b0246/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
